@@ -1,4 +1,4 @@
-package com.nileshpatil.sample;
+package com.nileshpatil.sample.ex_01_RA_Basics;
 
 import io.restassured.RestAssured;
 
