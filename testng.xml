@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+
+    <test name="APITests_Pincode_Check" verbose="2" preserve-order="true">
+        <classes>
+            <class name="com.nileshpatil.sample.ex_03_TestNG_AllureReport.APITesting_Lab06_TestCase">
+<!--                <methods>-->
+<!--                    <include name="test_tc1_pincode_valid" />-->
+<!--                    <include name="test_tc2_pincode_invalid" />-->
+<!--                    <include name="test_tc3_pincode_invalid" />-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+
+</suite>
