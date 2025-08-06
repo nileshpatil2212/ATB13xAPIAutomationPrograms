@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+
+    <test name="APITests_Pincode_Check" verbose="2" preserve-order="true">
+        <classes>
+            <class name="com.nileshpatil.sample.ex_04_RestAssured_HTTP_Methods.POST.APITesting010_POST_NonBDDStyle">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>
